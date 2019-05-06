@@ -1,5 +1,6 @@
 ## Index of source code examples:
 
+\Get Selection Points with PDF Viewer UI Application
 \PDF Viewer Control Hosted in WPF
 \Sample PDF Viewing UI Application
 \Set PDF Viewer Selection Options and Use CustomPaint Event
